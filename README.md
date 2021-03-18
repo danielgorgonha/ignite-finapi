@@ -11,7 +11,8 @@
 - [x] Deve ser possível buscar o extrato bancário do client por data
 - [x] Deve ser possível atualizar dados da conta do cliente
 - [x] Deve ser possível obter dados da conta do cliente
-- [] Deve ser possível deletar uma conta
+- [x] Deve ser possível deletar uma conta
+- [x] Deve ser possível retornar o balance
 
 ---
 
@@ -22,4 +23,4 @@
 - [x] Não deve possível buscar extrato em uma conta não existente
 - [x] Não deve possível fazer saque em uma conta não existente
 - [x] Não deve possível fazer saque quando o saldo for insuficiente
-- [] Não deve possível excluir uma conta não existente
+- [x] Não deve possível excluir uma conta não existente
